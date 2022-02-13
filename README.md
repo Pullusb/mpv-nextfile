@@ -12,6 +12,14 @@ You can copy paste below into your input.conf if you want to change the keybindi
   `shift+LEFT script-binding previousfile`  
   `shift+RIGHT script-binding nextfile`  
   
-  
 #### My other mpv scripts
 - [collection of scripts](https://github.com/donmaiq/mpv-scripts)
+
+---
+
+## Fork infos
+
+Original author: [jonniek](https://github.com/jonniek)  
+Forked from https://github.com/jonniek/mpv-nextfile  
+Only change: Use `Ctrl` instead of `Shift` for default keybinding  
+(just wanted a repo to easily get my personal config)  

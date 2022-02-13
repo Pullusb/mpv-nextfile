@@ -136,5 +136,7 @@ function movetofile(forward)
   end
 end
 
-mp.add_key_binding('Shift+RIGHT', 'nextfile', nexthandler)
-mp.add_key_binding('Shift+LEFT', 'previousfile', prevhandler)
+mp.add_key_binding('Ctrl+RIGHT', 'nextfile', nexthandler)
+mp.add_key_binding('Ctrl+LEFT', 'previousfile', prevhandler)
+-- mp.add_key_binding('Shift+RIGHT', 'nextfile', nexthandler)
+-- mp.add_key_binding('Shift+LEFT', 'previousfile', prevhandler)
